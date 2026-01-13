@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Arc goes oN (Live ver Singin' in the Rainbow! at Yokohama)",
+  "base_artist": "にじさんじ",
+  "createdAt": "2026-01-13T18:36:36.068738Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Arc goes oN (Live ver Singin' in the Rainbow! at Nagoya)",
+      "artist": "NIJISANJI",
+      "has_synced": false,
+      "path": "select/01_Arc_goes_oN_(Live_ver_Singin'_in_the_Rainbow!_at_Nagoya)_NIJISANJI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Arc goes oN - Live ver Singin' in the Rainbow! at Sendai",
+      "artist": "にじさんじ",
+      "has_synced": false,
+      "path": "select/pl_01_Arc_goes_oN_-_Live_ver_Singin'_in_the_Rainbow!_at_Sendai_にじさんじ.txt"
+    }
+  ]
+}
